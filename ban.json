@@ -1,18 +1,3 @@
-  "banned": [
-    "a1b2c3d4e5f6...",
-    "f9e8d7c6b5a4..."
-  ],
-  "reported": [
-    {
-      "machineId": "a1b2c3d4e5f6...",
-      "reason": "token_sig_mismatch",
-      "hostname": "server-01",
-      "platform": "linux",
-      "user": "root",
-      "meta": { "gap": 1234567 },
-      "at": 1730000000000
-    }
-  ],
-  "reason": {
-    "a1b2c3d4e5f6...": "auto-report bypass at 2024-11-01"
-  }
+{
+  "banned":[]
+}
